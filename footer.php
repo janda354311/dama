@@ -6,7 +6,7 @@
     </style><script async src></script><script async src></script><script async src></script><script type="text/shopee-short-url-checked">0</script>
 <meta charset="utf-8">
 <meta name="viewport" content="width=1240,shrink-to-fit=no">
-<meta name="google-site-verification" content="MBVnMGqD--Qk40BNDQN4I5Vtn-Kqqyba-7kElzEf8M4" />
+<meta name="google-site-verification" content="LJQqL9aXHKBMLpvi2GWLvpp3bd640ZW9CRUYZQ-QYYk" />
 <meta name="shopee:git-sha" content="a1956f6c82c383d6650d25d1b2eaf63cdf6343db">
 <meta name="shopee:version" content="pc-v5.71.1">
 <link rel="icon" type="image/png" sizes="32x32" href="/pcmall-assets/assets/icon_favicon_1_32.png">
